@@ -16,3 +16,4 @@ table.third {width: 100%; margin-top: 2%;}
 table.third th {padding: 9px; background-color: white;}
 table.third td {padding: 9px;}
 table.fourth {width: 100% ; margin-top: 2%;}
+table.first tr:hover, table.second tr:hover {background-color: #f5f5f5;}
