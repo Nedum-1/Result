@@ -3,15 +3,16 @@ table, th, td {border: solid;
 border-collapse: collapse;
 padding: 5px;
 text-align: center;
-width: 50%;}
+width: auto;}
 table.first {float: left;}
-table.second {float: right;}
+table.second {float: right; margin-bottom: 2%;}
 #details {text-align: justify;/* text-align: right; */margin-top: -100px; margin-bottom: 100px; margin-right: 100px; margin-left: 70%;}
 #school {margin-left: 20%;}
 #name {text-align: center;}
 table.first th, table.second th {color: rgb(225, 26, 26); border-color: black;}
 tr:nth-child(odd) {background-color: hsl(208, 100%, 97%, 20%);}
 table, th, td {border-width: 1px;}
-table.third {width: 100%;}
+table.third {width: 100%; margin-top: 2%;}
 table.third th {padding: 9px; background-color: white;}
 table.third td {padding: 9px;}
+table.fourth {width: 100% ; margin-top: 2%;}
